@@ -28,8 +28,8 @@ wget https://huggingface.co/datasets/princeton-nlp/datasets-for-simcse/resolve/m
 
 **Flickr30k & MS-COCO** \
 Download the preprocessed data:
-- [flickr30k_ViT_L14.json](https://drive.google.com/file/d/1TBNIM9-zL-wXb2kH8YtuYPig2oYInSSm/view?usp=sharing)
-- [train_coco_ViT_L14.json](https://drive.google.com/file/d/10x7Kf5ZD406gxcxONNn_CBpoaxij6Jv0/view?usp=sharing)
+- [flickr30k_ViT_L14.json]()
+- [train_coco_ViT_L14.json]()
 
 Or preprocess the data by yourself (using raw images from Flickr and COCO with CLIP).
 
