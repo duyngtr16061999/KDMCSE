@@ -1,5 +1,5 @@
 # KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning
-This repository contains code and pre-trained models for our NAACL-2024 paper [KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning]().
+This repository contains code and pre-trained models for our NAACL-2024 paper [KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning](https://arxiv.org/abs/2403.17486).
 
 ## Quickstart
 ### Setup
@@ -28,8 +28,8 @@ wget https://huggingface.co/datasets/princeton-nlp/datasets-for-simcse/resolve/m
 
 **Flickr30k & MS-COCO** \
 Download the preprocessed data:
-- [flickr30k_ViT_L14.json]()
-- [train_coco_ViT_L14.json]()
+- [flickr30k_ViT_L14.json](https://drive.google.com/file/d/1bafZ2N6vGyC6OA8SwPBlxjxG42XHFFwu/view?usp=sharing)
+- [train_coco_ViT_L14.json](https://drive.google.com/file/d/1RpG75TbY-7qXiypFlv2PumDYMxCaiG1b/view?usp=sharing)
 
 Or preprocess the data by yourself (using raw images from Flickr and COCO with CLIP).
 
